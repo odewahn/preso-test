@@ -20,7 +20,7 @@
     "html": {
       "index": false,
       "toc": false,
-      "consolidated": false
+      "consolidated": true
     }
   },
   "theme": "oreillymedia/oreilly_presentation_theme",
