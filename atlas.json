@@ -1,0 +1,71 @@
+{
+  "files": [
+    "titlepage.html",
+    "slide01.html",
+    "array_survey.html",
+    "slide02.html",
+    "slide03.html",
+    "slide04.html",
+    "slide05.html",
+    "slide06.html",
+    "slide08.html",
+    "slide09.html",
+    "slide10.html",
+    "slide11.html",
+    "slide12.html",
+    "slide13.html",
+    "slide14.html",
+    "slide15.html",
+    "slide16.html",
+    "slide17.html",
+    "slide18.html",
+    "slide19.html",
+    "slide20.html",
+    "slide21.html",
+    "slide22.html",
+    "slide23.html",
+    "slide24.html",
+    "slide25.html",
+    "slide26.html",
+    "slide27.html",
+    "slide28.html",
+    "slide29.html",
+    "slide30.html",
+    "slide31.html",
+    "slide32.html",
+    "slide33.html",
+    "slide34.html",
+    "slide35.html",
+    "slide36.html",
+    "slide37.html",
+    "slide38.html",
+    "slide39.html",
+    "slide40.html",
+    "slide41.html",
+    "slide42.html",
+    "slide43.html"
+  ],
+  "formats": {
+    "pdf": {
+      "version": "web",
+      "index": false,
+      "toc": false
+    },
+    "epub": {
+      "index": false,
+      "toc": false,
+      "epubcheck": false
+    },
+    "mobi": {
+      "index": false,
+      "toc": false
+    },
+    "html": {
+      "index": false,
+      "toc": false,
+      "consolidated": true
+    }
+  },
+  "theme": "oreillymedia/oreilly_presentation_theme",
+  "title": "scatteredtoscatterplot"
+}
